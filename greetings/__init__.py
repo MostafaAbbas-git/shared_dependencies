@@ -1,3 +1,2 @@
-
-def hello(target="World"):
-    print("Hello {}!".format(target))
+from greetings.hello import *
+from greetings.TurnSystemOn import *

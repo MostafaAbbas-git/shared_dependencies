@@ -1,3 +1,0 @@
-
-greetings==1.0.0
-git+https://github.com/MostafaAbbas-git/shared_dependencies.git@v1.0.0#egg=castle-migration
